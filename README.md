@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sujon</h1>
+<h1 align="center"># Hi there 💖
+, I'm Sujon</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=JavaScript+Developer;Frontend+Engineer;50%2B+Hands-on+Projects;UI+%7C+APIs+%7C+Browser+Features;Building+Every+Day&center=true&width=650&height=45&color=00A8FF">
